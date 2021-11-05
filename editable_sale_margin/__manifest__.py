@@ -12,6 +12,8 @@ This module give you the possibilite to edit margin in euro and margin in %.
 This gives the profitability by calculating the difference between the Unit
 Price and Cost Price.
     """,
+    'license': 'AGPL-3',
+    'images': ['static/description/banner.jpg'],
     "category": "Sale",
     'author': 'Odoo Consultant medconsultantweb@gmail.com',
     'website': 'http://www.weblemon.org',
