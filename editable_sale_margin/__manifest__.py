@@ -17,8 +17,6 @@ Price and Cost Price.
     "category": "Sale",
     'author': 'Odoo Consultant medconsultantweb@gmail.com',
     'website': 'http://www.weblemon.org',
-    'price': '10.0',
-    'currency': 'USD',
     'depends': ['sale_management', 'sale_margin','account'],
     'demo': [],
     'data': [
